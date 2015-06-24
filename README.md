@@ -6,10 +6,10 @@ Vinly.it is .... (to be filled out in more detail at a later date)
 
 ### Tasks
 Based on June 23rd CodeNode event.
-Sean - Use Cases listed out and general mobile web application introduction documented.
-Christine - UI/UX Wireframes
-Matt - Initial serverside scaffold setup
-Alan - Help with logistics and coordiantion of moving pieces, configure and setup Trello board for future task tracking
+- Sean - Use Cases listed out and general mobile web application introduction documented.
+- Christine - UI/UX Wireframes
+- Matt - Initial serverside scaffold setup
+- Alan - Help with logistics and coordiantion of moving pieces, configure and setup Trello board for future task tracking
 
 ### Communications
 Chat will take place at NodeJs Houston's slack account under the code-vinyl channel.
