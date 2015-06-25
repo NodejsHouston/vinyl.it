@@ -1,0 +1,18 @@
+{
+  "name": "_init_code",
+  "version": "1.0.0",
+  "description": "Initial Vinyl Code",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "disconnect": "^0.6.3",
+    "express": "^4.13.0"
+  }
+}
+//original express code was at 4.12.3
+//original disconnect code was at 0.6.2
