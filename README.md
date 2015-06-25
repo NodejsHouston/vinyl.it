@@ -1,8 +1,9 @@
 # Vinyl.it
 ------
-This Node.js Houston project will serve as playground for exploring the advantages of node.js in the world of mobile web apps. Utilizing a robust pre-existing API and database (discogs.com) we are afforded a solid foundation to build our solutions to the problems with blurring the lines between native and web apps… oh and it’s gonna be cool.
+This Node.js Houston project will serve as an academic playground for exploring the advantages of node.js in the world of mobile web apps. Utilizing a robust pre-existing API and database (discogs.com) we are afforded a solid foundation to build our solutions to the problems with blurring the lines between native and web apps… oh and it’s gonna be cool.
 
 **About Discogs**
+
 *“We're on a mission to build the biggest and most comprehensive music database and marketplace. Imagine a site with discographies of all labels, all artists, all cross-referenced, and an international marketplace built off of that database. It's for the love of music, and we're getting closer every day.”* 
 
 Discogs API:
@@ -53,3 +54,4 @@ Chat will take place at NodeJs Houston's slack account under the code-vinyl chan
 - Christine Pham
 - Matt Hall
 - Alan Lee
+- David Loop (resident vinyl expert)
