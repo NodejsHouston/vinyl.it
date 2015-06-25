@@ -1,7 +1,33 @@
 # Vinyl.it
 ------
+This Node.js Houston project will serve as playground for exploring the advantages of node.js in the world of mobile web apps. Utilizing a robust pre-existing API and database (discogs.com) we are afforded a solid foundation to build our solutions to the problems with blurring the lines between native and web apps… oh and it’s gonna be cool.
 
-Vinly.it is .... (to be filled out in more detail at a later date)
+**About Discogs**
+*“We're on a mission to build the biggest and most comprehensive music database and marketplace. Imagine a site with discographies of all labels, all artists, all cross-referenced, and an international marketplace built off of that database. It's for the love of music, and we're getting closer every day.”* 
+
+Discogs API:
+https://www.discogs.com/developers/ 
+
+Discogs official Node.js client library:
+https://github.com/bartve/disconnect 
+
+Each vinyl.it branch will explore various front end UI and node.js frameworks as we become interested in them. However all flavors of vinyl.it will take full advantage of the complete Discogs.com API features which are listed here but not limited to:
+Database Omni-Search for:
+-Releases
+-Release Credits
+-Artists
+-Label
+-Track
+-Year
+-Cat. No.
+-Genre
+-Style	
+
+Discogs User oAuth handshake for gaining access to standard CRUD operations for
+-User Profile
+-User Collections
+-Want Lists
+-Market Place listings 
 
 
 ### Tasks
