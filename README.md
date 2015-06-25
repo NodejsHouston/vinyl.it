@@ -12,22 +12,23 @@ Discogs official Node.js client library:
 https://github.com/bartve/disconnect 
 
 Each vinyl.it branch will explore various front end UI and node.js frameworks as we become interested in them. However all flavors of vinyl.it will take full advantage of the complete Discogs.com API features which are listed here but not limited to:
+
 Database Omni-Search for:
--Releases
--Release Credits
--Artists
--Label
--Track
--Year
--Cat. No.
--Genre
--Style	
+- Releases
+- Release Credits
+- Artists
+- Label
+- Track
+- Year
+- Cat. No.
+- Genre
+- Style	
 
 Discogs User oAuth handshake for gaining access to standard CRUD operations for
--User Profile
--User Collections
--Want Lists
--Market Place listings 
+- User Profile
+- User Collections
+- Want Lists
+- Market Place listings 
 
 
 ### Tasks
